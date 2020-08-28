@@ -16,8 +16,8 @@ If you wish to set tracking information for this branch you can do so with:
 
     git branch --set-upstream-to=origin/<branch> master
 3. git branch gave me a blank line
-4.
+4. * master
 5. die-class
 6. die--class/  first-answers.md  README.md  second-answers.md
 7. Header is not there
-8. merge: header - not something we can merge
+
