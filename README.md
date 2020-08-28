@@ -1,2 +1,2 @@
-# Git Lab #2
-## First team member: Connor Barber 1
+# The second Git Lab
+## Second team member: Connor Barber
