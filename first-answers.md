@@ -15,3 +15,4 @@ See git-pull(1) for details.
 If you wish to set tracking information for this branch you can do so with:
 
     git branch --set-upstream-to=origin/<branch> master
+3. git branch gave me a blank line
