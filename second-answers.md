@@ -1,1 +1,2 @@
-1. fatal: not a git repository (or any of the parent directories): .git     (Got this error every time I tried to commit something)
+1. error: failed to push some refs to 'https://github.com/cb386316/die-class'
+2,
